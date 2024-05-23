@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Racing Sans One";
+  src: url("../fonts/RacingSansOne-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Vina Sans";
+  src: url("../fonts/VinaSans-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Pretendard-Bold";
+  src: url("../fonts/Pretendard-Bold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Pretendard-Regular";
+  src: url("../fonts/Pretendard-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Pretendard-Thin";
+  src: url("../fonts/Pretendard-Thin.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
